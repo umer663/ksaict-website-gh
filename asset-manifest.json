@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ksaict-website-gh/static/css/main.b9c57ec7.css",
+    "main.js": "/ksaict-website-gh/static/js/main.1180a285.js",
+    "static/js/58.27c9df12.chunk.js": "/ksaict-website-gh/static/js/58.27c9df12.chunk.js",
+    "static/media/navtcc.png": "/ksaict-website-gh/static/media/navtcc.100ccd74bb8844291a4b.png",
+    "static/media/HeroImageColourTherapy.png": "/ksaict-website-gh/static/media/HeroImageColourTherapy.aca5fc267ddf71b30704.png",
+    "static/media/qalandarbabaauliya.png": "/ksaict-website-gh/static/media/qalandarbabaauliya.cc64d8abf588fc7d5a0a.png",
+    "static/media/logo.png": "/ksaict-website-gh/static/media/logo.9f8ab421a010da442070.png",
+    "static/media/tevta.png": "/ksaict-website-gh/static/media/tevta.e34496b4ce426ac5d637.png",
+    "static/media/ilaajbook.jpg": "/ksaict-website-gh/static/media/ilaajbook.a1857febbe427a0d1bec.jpg",
+    "static/media/khawajashamsuddinazeemi.jpg": "/ksaict-website-gh/static/media/khawajashamsuddinazeemi.3badae097c2196de0cd2.jpg",
+    "static/media/nazariya.jpg": "/ksaict-website-gh/static/media/nazariya.5e6e5e71d0c82fc0c61a.jpg",
+    "static/media/psda.png": "/ksaict-website-gh/static/media/psda.ee873376bcab54945678.png",
+    "static/media/colourtherapybook.jpg": "/ksaict-website-gh/static/media/colourtherapybook.af49432cfcbcee5a84b0.jpg",
+    "index.html": "/ksaict-website-gh/index.html",
+    "main.b9c57ec7.css.map": "/ksaict-website-gh/static/css/main.b9c57ec7.css.map",
+    "main.1180a285.js.map": "/ksaict-website-gh/static/js/main.1180a285.js.map",
+    "58.27c9df12.chunk.js.map": "/ksaict-website-gh/static/js/58.27c9df12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9c57ec7.css",
+    "static/js/main.1180a285.js"
+  ]
+}
